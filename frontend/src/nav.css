@@ -1,0 +1,15 @@
+.navigation{
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-left: 400px;
+    font-size: large;
+    
+}
+
+.foot{
+    text-align: right;
+    padding:5px;
+    position: relative;
+    background-color: gray;
+    margin-top: 100px;
+}
